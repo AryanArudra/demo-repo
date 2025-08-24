@@ -1,3 +1,3 @@
 # demo-repo
 Demo-Repository
-Author -Aryan
+Author -Aryan (alpha-knowledge)
